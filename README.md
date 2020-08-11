@@ -1,2 +1,2 @@
 # f-js-calc
-dedmo - https://straightedgesxe.github.io/f-js-calc/
+demo - https://sxenny.github.io/f-js-calc/
